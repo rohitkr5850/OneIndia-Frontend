@@ -1,16 +1,64 @@
-# React + Vite
+# 🇮🇳 OneIndia – Frontend  
+A modern and responsive frontend for the **OneIndia Language Safety Translator**, built using **React + Vite**.  
+The goal of this project is to help users translate text between major Indian languages with a smooth, fast, and user-friendly UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Live Demo  
+🔗 https://one-india-frontend.vercel.app  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
+- 🌐 Supports 5 major Indian languages  
+- 🔤 Hinglish transliteration output  
+- ⚡ Fast & responsive UI built with Vite  
+- 🔁 Real-time translation experience  
+- 📱 Fully mobile-friendly  
+- 🔒 Secure API communication with backend  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack  
+- **React.js**  
+- **Vite**  
+- **JavaScript**  
+- **Axios**  
+- **Tailwind / Custom CSS**  
+- **Vercel Deployment**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Project Structure  
+src/
+├── components/
+├── pages/
+├── context/
+├── utils/
+├── App.jsx
+└── main.jsx
+public/
+index.html
+vite.config.js
+
+yaml
+Copy code
+
+---
+
+## ⚙️ Running Locally  
+1. Clone repo  
+```bash
+git clone https://github.com/rohitkr5850/OneIndia-Frontend.git
+Install dependencies
+
+```bash
+
+npm install
+Run the app
+
+```bash
+
+npm run dev
+The app will run on
+
+arduino
+http://localhost:5173
