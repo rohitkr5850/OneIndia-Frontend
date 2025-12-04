@@ -40,7 +40,6 @@ index.html
 vite.config.js
 
 yaml
-Copy code
 
 ---
 
